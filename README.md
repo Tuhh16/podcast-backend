@@ -55,6 +55,6 @@ The following tools were used in the project's construction:
 
 ## 📝 License
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+This project is under the license [MIT](./LICENSE).
 
-Feito por Arthur Teodoro Alves de Lima 👋🏽 [Entre em contato!](https://www.linkedin.com/in/arthurtlima/)
+Made by Arthur Teodoro Alves de Lima 👋🏽 [Get in touch!](https://www.linkedin.com/in/arthurtlima/)
